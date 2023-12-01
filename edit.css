@@ -79,4 +79,5 @@
 
 .edit .stick {
 	background: url(assets/stick.svg);
+	background-position: -85 0;
 }
