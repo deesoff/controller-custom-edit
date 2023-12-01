@@ -81,3 +81,15 @@
 	background: url(assets/stick.svg);
 	background-position: -85px 0;
 }
+
+.edit .trigger {
+	background: url(assets/trigger.svg);
+}
+
+.edit .bumper {
+	background: url(assets/bumper.svg);
+}
+
+.edit .face {
+	background: url(assets/dpad.svg);
+}
